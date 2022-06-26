@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1fe028dc9df0920d3a4bcd712f69f72",
+    "revision": "d02c427481f702386b169de1bfe62c55",
     "url": "https://satyam-jaiswal.github.io/NetflixClone/index.html"
   },
   {
-    "revision": "ac2732b0ccbfdacd0867",
+    "revision": "4f3e90920b6d26d55000",
     "url": "https://satyam-jaiswal.github.io/NetflixClone/static/css/main.9730889b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://satyam-jaiswal.github.io/NetflixClone/static/js/2.fea41c3e.chunk.js"
   },
   {
-    "revision": "ac2732b0ccbfdacd0867",
-    "url": "https://satyam-jaiswal.github.io/NetflixClone/static/js/main.27c0b80a.chunk.js"
+    "revision": "4f3e90920b6d26d55000",
+    "url": "https://satyam-jaiswal.github.io/NetflixClone/static/js/main.f1bd4f51.chunk.js"
   },
   {
     "revision": "833666cb3e43dbeae108",
