@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9730889b.chunk.css",
-    "main.js": "/static/js/main.8cda99ef.chunk.js",
-    "main.js.map": "/static/js/main.8cda99ef.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.f96ca391.chunk.js": "/static/js/2.f96ca391.chunk.js",
-    "static/js/2.f96ca391.chunk.js.map": "/static/js/2.f96ca391.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.666da894bc29691d7d3f49203f596f77.js": "/precache-manifest.666da894bc29691d7d3f49203f596f77.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9730889b.chunk.css.map": "/static/css/main.9730889b.chunk.css.map",
-    "static/media/landingPage.jpg": "/static/media/landingPage.149a098f.jpg",
-    "static/media/netflix.png": "/static/media/netflix.8562b656.png",
-    "static/media/normal.jpg": "/static/media/normal.991556c2.jpg",
-    "static/media/profile.jpg": "/static/media/profile.c2b89779.jpg"
+    "main.css": "/NetflixClone/static/css/main.9730889b.chunk.css",
+    "main.js": "/NetflixClone/static/js/main.d0409dab.chunk.js",
+    "main.js.map": "/NetflixClone/static/js/main.d0409dab.chunk.js.map",
+    "runtime~main.js": "/NetflixClone/static/js/runtime~main.45512f5e.js",
+    "runtime~main.js.map": "/NetflixClone/static/js/runtime~main.45512f5e.js.map",
+    "static/js/2.f96ca391.chunk.js": "/NetflixClone/static/js/2.f96ca391.chunk.js",
+    "static/js/2.f96ca391.chunk.js.map": "/NetflixClone/static/js/2.f96ca391.chunk.js.map",
+    "index.html": "/NetflixClone/index.html",
+    "precache-manifest.8e2a44e2cf34237ddb17eaedceb2de42.js": "/NetflixClone/precache-manifest.8e2a44e2cf34237ddb17eaedceb2de42.js",
+    "service-worker.js": "/NetflixClone/service-worker.js",
+    "static/css/main.9730889b.chunk.css.map": "/NetflixClone/static/css/main.9730889b.chunk.css.map",
+    "static/media/landingPage.jpg": "/NetflixClone/static/media/landingPage.149a098f.jpg",
+    "static/media/netflix.png": "/NetflixClone/static/media/netflix.8562b656.png",
+    "static/media/normal.jpg": "/NetflixClone/static/media/normal.991556c2.jpg",
+    "static/media/profile.jpg": "/NetflixClone/static/media/profile.c2b89779.jpg"
   }
 }
