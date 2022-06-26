@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://github.com/Satyam-Jaiswal/NetflixClone/precache-manifest.1250f7b9d2f58af98917ccbbec1b5aef.js"
+  "https://satyam-jaiswal.github.io/NetflixClone/precache-manifest.4c100fd3dee51eab57ef9f6fa3e8740f.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://github.com/Satyam-Jaiswal/NetflixClone/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://satyam-jaiswal.github.io/NetflixClone/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
