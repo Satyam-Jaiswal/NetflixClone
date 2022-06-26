@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "https://satyam-jaiswal.github.io/NetflixClone/static/css/main.9730889b.chunk.css",
-    "main.js": "https://satyam-jaiswal.github.io/NetflixClone/static/js/main.1e113bf7.chunk.js",
-    "main.js.map": "https://satyam-jaiswal.github.io/NetflixClone/static/js/main.1e113bf7.chunk.js.map",
-    "runtime~main.js": "https://satyam-jaiswal.github.io/NetflixClone/static/js/runtime~main.940f5bae.js",
-    "runtime~main.js.map": "https://satyam-jaiswal.github.io/NetflixClone/static/js/runtime~main.940f5bae.js.map",
-    "static/js/2.f96ca391.chunk.js": "https://satyam-jaiswal.github.io/NetflixClone/static/js/2.f96ca391.chunk.js",
-    "static/js/2.f96ca391.chunk.js.map": "https://satyam-jaiswal.github.io/NetflixClone/static/js/2.f96ca391.chunk.js.map",
-    "index.html": "https://satyam-jaiswal.github.io/NetflixClone/index.html",
-    "precache-manifest.4c100fd3dee51eab57ef9f6fa3e8740f.js": "https://satyam-jaiswal.github.io/NetflixClone/precache-manifest.4c100fd3dee51eab57ef9f6fa3e8740f.js",
-    "service-worker.js": "https://satyam-jaiswal.github.io/NetflixClone/service-worker.js",
-    "static/css/main.9730889b.chunk.css.map": "https://satyam-jaiswal.github.io/NetflixClone/static/css/main.9730889b.chunk.css.map",
-    "static/media/landingPage.jpg": "https://satyam-jaiswal.github.io/NetflixClone/static/media/landingPage.149a098f.jpg",
-    "static/media/netflix.png": "https://satyam-jaiswal.github.io/NetflixClone/static/media/netflix.8562b656.png",
-    "static/media/normal.jpg": "https://satyam-jaiswal.github.io/NetflixClone/static/media/normal.991556c2.jpg",
-    "static/media/profile.jpg": "https://satyam-jaiswal.github.io/NetflixClone/static/media/profile.c2b89779.jpg"
+    "main.css": "https://github.com/Satyam-Jaiswal/NetflixClone/static/css/main.9730889b.chunk.css",
+    "main.js": "https://github.com/Satyam-Jaiswal/NetflixClone/static/js/main.7642d969.chunk.js",
+    "main.js.map": "https://github.com/Satyam-Jaiswal/NetflixClone/static/js/main.7642d969.chunk.js.map",
+    "runtime~main.js": "https://github.com/Satyam-Jaiswal/NetflixClone/static/js/runtime~main.6583eca9.js",
+    "runtime~main.js.map": "https://github.com/Satyam-Jaiswal/NetflixClone/static/js/runtime~main.6583eca9.js.map",
+    "static/js/2.f96ca391.chunk.js": "https://github.com/Satyam-Jaiswal/NetflixClone/static/js/2.f96ca391.chunk.js",
+    "static/js/2.f96ca391.chunk.js.map": "https://github.com/Satyam-Jaiswal/NetflixClone/static/js/2.f96ca391.chunk.js.map",
+    "index.html": "https://github.com/Satyam-Jaiswal/NetflixClone/index.html",
+    "precache-manifest.1250f7b9d2f58af98917ccbbec1b5aef.js": "https://github.com/Satyam-Jaiswal/NetflixClone/precache-manifest.1250f7b9d2f58af98917ccbbec1b5aef.js",
+    "service-worker.js": "https://github.com/Satyam-Jaiswal/NetflixClone/service-worker.js",
+    "static/css/main.9730889b.chunk.css.map": "https://github.com/Satyam-Jaiswal/NetflixClone/static/css/main.9730889b.chunk.css.map",
+    "static/media/landingPage.jpg": "https://github.com/Satyam-Jaiswal/NetflixClone/static/media/landingPage.149a098f.jpg",
+    "static/media/netflix.png": "https://github.com/Satyam-Jaiswal/NetflixClone/static/media/netflix.8562b656.png",
+    "static/media/normal.jpg": "https://github.com/Satyam-Jaiswal/NetflixClone/static/media/normal.991556c2.jpg",
+    "static/media/profile.jpg": "https://github.com/Satyam-Jaiswal/NetflixClone/static/media/profile.c2b89779.jpg"
   }
 }
